@@ -1,4 +1,4 @@
-<p align="center"><a href="https://dharmendra-07.github.io/io/"><img width='75%' alt="Hello, I'm Dharmendra,AI | ML | CSE!" src="./header01.png" /></a></p>
+<p align="center"><a href="https://dharmendra-07.github.io/io/"><img width='75%' alt="Hello, I'm Dharmendra,AI | ML | CSE!" src="./header.png" /></a></p>
 
 <br />
 <h3 align="center">As a undergraduate student in Data Science & AI at IIT Madras, I focus on the areas of machine learning, deep learning, specifically in the domain of computer vision.</h3>
