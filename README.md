@@ -1,7 +1,7 @@
 # Hello! I am Dharmendra 👋
 
 - 🌱 I’m currently learning Data Science and Software Development
-- 💻 Interested in Finance + AI projects
+- 💻 Interested in Software Development + AI projects
 - 📫 Reach me at: dharmendrra06@gmail.com
 - 🚀 Aspiring Data Scientist | Software Engineer
 <!--
