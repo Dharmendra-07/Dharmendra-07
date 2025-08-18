@@ -1,5 +1,9 @@
-## Hi there 👋
+# Hello! I am Dharmendra 👋
 
+- 🌱 I’m currently learning Data Science and Software Development
+- 💻 Interested in Finance + AI projects
+- 📫 Reach me at: your_email@example.com
+- 🚀 Aspiring Data Scientist | Software Engineer
 <!--
 **Dharmendra-07/Dharmendra-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
