@@ -1,7 +1,7 @@
 <p align="center"><a href="https://dharmendra-07.github.io/io/"><img width='75%' alt="Hello, I'm Dharmendra,AI | ML | CSE!" src="./header.png" /></a></p>
 
 <br />
-<h3 align="center">As a undergraduate student in Data Science & Applications at IIT Madras, I focus on the areas of machine learning, deep learning, specifically in the domain of **Data Science, and Software Development**.</h3>
+<h3 align="center">As a undergraduate student in Data Science & Applications at IIT Madras, I focus on the areas of machine learning, deep learning, specifically in the domain of <b> Data Science, and Software Development.</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikcseiitk&label=Profile%20views&color=0e75b6&style=flat" alt="Dharmendra" /> </p>
 
