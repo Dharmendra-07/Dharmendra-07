@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1TEKqgVvLryw4xdANB01gjb5884GNDyib/view?usp=sharing)
 
+<!-- ✍️ My GATE CSE-2023 Experience [Medium](https://medium.com/@souvik33and37/gate-in-cse-it-roadmap-1e145c1de1cf), [Gate Overfllow](https://gateoverflow.in/blog/15215/my-gate-cse-2023-journey-for-future-aspirants)
+--->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dharmendra-iitm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/dharmendra-iitm/" height="30" width="40" /></a>
