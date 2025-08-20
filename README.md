@@ -42,3 +42,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmendra-07&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </p>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Stats & Streak side by side (desktop), stacked (mobile) -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dharmendra-07&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Dharmendra-07&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
+  </div>
+
+  <!-- Top Languages full width below -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmendra-07&layout=compact&langs_count=8&theme=radical" alt="Top Languages" height="180"/>
+  </div>
+
+  <!-- Optional: GitHub Trophies -->
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=Dharmendra-07&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </div>
+
+</div>
