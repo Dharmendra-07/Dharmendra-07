@@ -38,4 +38,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmendra-07&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dharmendra-07&show_icons=true&locale=en&layout=compact" alt="Dharmendra-07" />
+</p>
 
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmendra-07&" alt="Dharmendra-07" />
+</p>
