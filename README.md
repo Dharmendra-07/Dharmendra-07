@@ -30,6 +30,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmendra-07k&" alt="Dharmendra" /></p>
 
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharmendra-07&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmendra-07&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmendra-07&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 
