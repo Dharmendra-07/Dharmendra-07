@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Dharmendra-07&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
 </p>
 
