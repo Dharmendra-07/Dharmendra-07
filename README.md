@@ -3,7 +3,9 @@
 <br />
 <h3 align="center">As a undergraduate student in Data Science & Applications at IIT Madras, I focus on the areas of machine learning, deep learning, specifically in the domain of Data Science, and Software Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikcseiitk&label=Profile%20views&color=0e75b6&style=flat" alt="Dharmendra" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Dharmendra-07&label=Profile%20views&color=0e75b6&style=flat" alt="Dharmendra-07" /> 
+</p>
 
 - 👨‍💻My Portfolio [https://dharmendra-07.github.io/io/](https://dharmendra-07.github.io/io/)
 
