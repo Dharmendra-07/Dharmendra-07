@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **23f2000072@ds.study.iitm.ac.in**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1qTjXRw_DqBzG4mhKIa0n9pl4Hf9hMc1E)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GoD7giQ88i_w1tg5fpdbi7tiAZkHdpa7/view?usp=sharing)
 
 <!-- ✍️ My GATE CSE-2023 Experience [Medium](https://medium.com/@souvik33and37/gate-in-cse-it-roadmap-1e145c1de1cf), [Gate Overfllow](https://gateoverflow.in/blog/15215/my-gate-cse-2023-journey-for-future-aspirants)
 --->
