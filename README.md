@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=Dharmendra-07&label=Profile%20views&color=0e75b6&style=flat" alt="Dharmendra-07" /> 
 </p>
 
-- 👨‍💻My Portfolio [https://dharmendra-07.github.io/io/](https://dharmendra-07.github.io/io/)
+- 👨‍💻My Portfolio [https://dharmendra-07.github.io/Portfolio/](https://dharmendra-07.github.io/Portfolio/)
 
 <!-- - 🔭 I’m currently working on [Digital Image Forgery, IIT Kanpur](https://cdis.iitk.ac.in/image-forgery-detection/)
 
