@@ -44,3 +44,122 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmendra-07&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Header -->
+<p align="center">
+  <a href="https://dharmendra-07.github.io/io/">
+    <img src="./header.png" alt="Hello, I'm Dharmendra, AI | ML | CSE!" width="75%" />
+  </a>
+</p>
+
+<h2 align="center">Hi, I'm Dharmendra 👋</h2>
+
+<p align="center">
+  <b>Undergraduate in Data Science & Applications @ IIT Madras</b><br/>
+  Focusing on <b>Machine Learning</b>, <b>Deep Learning</b>, <b>Data Science</b> and <b>Software Development</b>.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dharmendra-07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Undergraduate student in Data Science & Applications at **IIT Madras**
+- 🤖 Interested in **ML / DL**, **Data Science**, and **Full‑stack Development**
+- 🌐 Portfolio: **[dharmendra-07.github.io/Portfolio](https://dharmendra-07.github.io/Portfolio/)**
+- 📫 Reach me at: **23f2000072@ds.study.iitm.ac.in**
+- 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1GoD7giQ88i_w1tg5fpdbi7tiAZkHdpa7/view?usp=sharing)**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dharmendra-iitm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/Dharmendra-07/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/dharmendra07/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Dharmendra-07&show_icons=true&count_private=true&include_all_commits=true&theme=radical" 
+    alt="GitHub Stats" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Dharmendra-07&theme=radical&hide_border=false" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmendra-07&layout=compact&langs_count=8&theme=radical" 
+    alt="Top Languages" 
+  />
+</p>
+
