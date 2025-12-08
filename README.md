@@ -45,10 +45,4 @@
 </p>
 
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmendra-07&layout=compact&langs_count=8&theme=radical" 
-    alt="Top Languages" 
-  />
-</p>
 
