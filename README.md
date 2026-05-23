@@ -317,13 +317,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dharmendra-07&theme=dark" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharmendra-07&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  
-  <!-- Optional streak stats (uncomment if you want) -->
-  <!-- <img src="https://streak-stats.demolab.com?user=Dharmendra-07&theme=radical&hide_border=true" width="48%"/> -->
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-07&theme=react-dark&hide_border=true&radius=10" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-07&theme=react-dark&hide_border=true&radius=10" width="100%"/>
 </p>
 
 # 📈 Contribution Graph
