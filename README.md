@@ -298,3 +298,76 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+o1
+
+
+
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Dharmendra%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20•%20Machine%20Learning%20•%20Data%20Science%20•%20Software%20Development&descAlignY=58&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1200&color=00F7FF&center=true&vCenter=true&width=950&lines=Hey+👋,+I'm+Dharmendra+Kumar;Data+Science+Undergraduate+at+IIT+Madras;AI+%7C+Machine+Learning+%7C+Deep+Learning;Building+Scalable+AI+Systems+and+Apps;Passionate+About+Innovation+and+Technology" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/IIT%20Madras-Data%20Science-blue?style=for-the-badge&logo=iata&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-00C2FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="https://komarev.com/ghpvc/?username=Dharmendra-07">
+  <img src="https://komarev.com/ghpvc/?username=Dharmendra-07&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
+</a>
+
+<a href="https://github.com/Dharmendra-07?tab=followers">
+  <img src="https://img.shields.io/github/followers/Dharmendra-07?logo=github&style=for-the-badge&color=00C2FF"/>
+</a>
+
+<a href="https://github.com/Dharmendra-07">
+  <img src="https://img.shields.io/github/stars/Dharmendra-07?logo=github&style=for-the-badge&color=FFD700"/>
+</a>
+
+</div>
+
+---
+
+# 🌌 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+```yaml
+Name: Dharmendra Kumar
+Education: IIT Madras
+Degree: BS in Data Science & Applications
+
+Interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+  - Full Stack Development
+  - Data Analytics
+  - Scalable Systems
+
+Currently Exploring:
+  - LLMs
+  - Cloud Computing
+  - AI Applications
+  - Backend Architectures
+
+Goal:
+  Become a world-class AI Engineer & Data Scientist
