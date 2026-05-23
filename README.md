@@ -303,71 +303,153 @@
 
 
 
-
-
-
-
-
-o1
-
-
-
-
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Dharmendra%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20•%20Machine%20Learning%20•%20Data%20Science%20•%20Software%20Development&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Dharmendra%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science%20%7C%20Software%20Development&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1200&color=00F7FF&center=true&vCenter=true&width=950&lines=Hey+👋,+I'm+Dharmendra+Kumar;Data+Science+Undergraduate+at+IIT+Madras;AI+%7C+Machine+Learning+%7C+Deep+Learning;Building+Scalable+AI+Systems+and+Apps;Passionate+About+Innovation+and+Technology" />
+<h1>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&height=100&lines=Hey+👋,+I'm+Dharmendra+Kumar;Data+Science+Undergraduate+at+IIT+Madras;AI+%7C+Machine+Learning+%7C+Deep+Learning;Building+Intelligent+and+Scalable+Systems"
+    alt="Typing SVG"
+  />
+</h1>
 
-<br/>
-
-<img src="https://img.shields.io/badge/IIT%20Madras-Data%20Science-blue?style=for-the-badge&logo=iata&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-00C2FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="https://komarev.com/ghpvc/?username=Dharmendra-07">
-  <img src="https://komarev.com/ghpvc/?username=Dharmendra-07&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
-</a>
-
-<a href="https://github.com/Dharmendra-07?tab=followers">
-  <img src="https://img.shields.io/github/followers/Dharmendra-07?logo=github&style=for-the-badge&color=00C2FF"/>
-</a>
-
-<a href="https://github.com/Dharmendra-07">
-  <img src="https://img.shields.io/github/stars/Dharmendra-07?logo=github&style=for-the-badge&color=FFD700"/>
-</a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Dharmendra-07&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  
+  <img src="https://img.shields.io/github/followers/Dharmendra-07?style=for-the-badge&color=00c2ff" />
+  
+  <img src="https://img.shields.io/github/stars/Dharmendra-07?style=for-the-badge&color=yellow" />
+</p>
 
 </div>
 
 ---
 
-# 🌌 About Me
+# 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+🎓 Undergraduate Student in **Data Science & Applications** at **IIT Madras**
 
-```yaml
-Name: Dharmendra Kumar
-Education: IIT Madras
-Degree: BS in Data Science & Applications
+💡 Passionate about:
+- Artificial Intelligence
+- Machine Learning & Deep Learning
+- Data Science & Analytics
+- Full Stack Development
+- Scalable Backend Systems
 
-Interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Deep Learning
-  - Full Stack Development
-  - Data Analytics
-  - Scalable Systems
+🌱 Currently Exploring:
+- Large Language Models (LLMs)
+- Cloud Computing
+- AI-powered Applications
+- Advanced Machine Learning Systems
 
-Currently Exploring:
-  - LLMs
-  - Cloud Computing
-  - AI Applications
-  - Backend Architectures
+🎯 Goal:
+> To become a world-class Data Scientist & AI Engineer
 
-Goal:
-  Become a world-class AI Engineer & Data Scientist
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/dharmendra-iitm/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://github.com/Dharmendra-07" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://leetcode.com/u/Dharmendra-07/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode" height="50"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/dharmendra07/" target="_blank">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks" height="50"/>
+</a>
+
+<a href="https://www.instagram.com/_dharam6/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
+</p>
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,opencv,sklearn" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dharmendra-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmendra-07&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmendra-07&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dharmendra-07&theme=tokyonight" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-07&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
+</p>
+
+---
+
+# 🏆 Achievements & Interests
+
+✨ AI & Machine Learning Projects  
+✨ Data Analytics & Visualization  
+✨ Full Stack Web Applications  
+✨ Scalable Backend Development  
+✨ Open Source & Continuous Learning
+
+---
+
+<div align="center">
+
+## ⚡ “Transforming Data into Intelligent Solutions”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
