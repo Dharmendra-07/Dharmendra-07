@@ -112,9 +112,6 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dharmendra-07&theme=dark" />
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-07&theme=react-dark&hide_border=true&radius=10" width="100%"/>
-</p>
-
 # 📈 Contribution Graph
 
 <p align="center">
