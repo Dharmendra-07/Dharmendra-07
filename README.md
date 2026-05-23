@@ -93,7 +93,7 @@
 
 ---
 
-## 🏆 GitHub Summary
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -112,10 +112,8 @@
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dharmendra-07&theme=tokyonight" />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dharmendra-07&theme=tokyonight" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-07&theme=tokyo-night&hide_border=true&radius=12" width="49%"/>
 
 </div>
-
 
 # 📈 Contribution Graph
 
