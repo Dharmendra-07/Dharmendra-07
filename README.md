@@ -332,6 +332,26 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-07&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
 </p>
 
+# 🏆 GitHub Summary
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dharmendra-07&theme=tokyonight" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dharmendra-07&theme=tokyonight" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dharmendra-07&theme=tokyonight" />
+
+</div>
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dharmendra-07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+
+</div>
+
 ---
 
 # 🏆 Achievements & Interests
