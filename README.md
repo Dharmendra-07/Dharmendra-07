@@ -453,3 +453,53 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
+
+
+90
+
+# 🌐 Portfolio & Resume
+
+<div align="center">
+
+<a href="https://dharmendra-07.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌍%20Portfolio-Visit%20Now-00C2FF?style=for-the-badge"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1GoD7giQ88i_w1tg5fpdbi7tiAZkHdpa7/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-success?style=for-the-badge"/>
+</a>
+
+<a href="mailto:23f2000072@ds.study.iitm.ac.in">
+  <img src="https://img.shields.io/badge/📫%20Email-Contact%20Me-red?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dharmendra-iitm/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="55" />
+</a>
+
+<a href="https://leetcode.com/u/Dharmendra-07/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="45" width="55" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/dharmendra07/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="45" width="55" />
+</a>
+
+<a href="https://github.com/Dharmendra-07" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=github" height="45" width="55"/>
+</a>
+
+<a href="https://www.instagram.com/_dharam6/" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=instagram" height="45" width="55"/>
+</a>
+
+</p>
+
