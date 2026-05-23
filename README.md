@@ -96,8 +96,6 @@
 ## 📊 My GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharmendra-07&theme=dark" />
-  <div align="center">
 
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharmendra-07&theme=tokyonight" />
 
