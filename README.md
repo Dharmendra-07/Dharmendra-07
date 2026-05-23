@@ -85,8 +85,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c,react,nodejs,express,mongodb,postgresql,html,css,tailwind,bootstrap,tensorflow,pytorch,git,github,vscode,linux" />
 
-<br/><br/>
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,opencv,sklearn" />
 
 </div>
