@@ -103,12 +103,6 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dharmendra-07&theme=dark" />
 </div>
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-07&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
-</p>
-
 # 🏆 GitHub Summary
 
 <div align="center">
@@ -120,6 +114,12 @@
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dharmendra-07&theme=tokyonight" />
 
 </div>
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-07&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
+</p>
 
 # 🏆 GitHub Achievements
 
