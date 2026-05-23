@@ -28,26 +28,6 @@
 
 ---
 
-# 🌐 Portfolio & Resume
-
-<div align="center">
-
-<a href="https://dharmendra-07.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/🌍%20Portfolio-Visit%20Now-00C2FF?style=for-the-badge"/>
-</a>
-
-<a href="https://drive.google.com/file/d/1GoD7giQ88i_w1tg5fpdbi7tiAZkHdpa7/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-success?style=for-the-badge"/>
-</a>
-
-<a href="mailto:23f2000072@ds.study.iitm.ac.in">
-  <img src="https://img.shields.io/badge/📫%20Email-Contact%20Me-red?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
 # 🚀 About Me
 
 🎓 Undergraduate Student in **Data Science & Applications** at **IIT Madras**
