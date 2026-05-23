@@ -99,8 +99,6 @@
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharmendra-07&theme=tokyonight" />
 
-<br/><br/>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dharmendra-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmendra-07&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
@@ -154,54 +152,5 @@
 ## ⚡ “Transforming Data into Intelligent Solutions”
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
-</div>
-
-
-
-9000
-
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dharmendra-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmendra-07&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmendra-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dharmendra-07&theme=tokyonight" />
-
-<br/><br/>
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharmendra-07&theme=tokyonight" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-07&custom_title=Dharmendra's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&radius=12" />
-
-</div>
-
----
-
-# 🏆 GitHub Summary
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dharmendra-07&theme=tokyonight" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dharmendra-07&theme=tokyonight" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dharmendra-07&theme=tokyonight" />
 
 </div>
