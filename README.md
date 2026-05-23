@@ -19,6 +19,24 @@
 
 <!-- ✍️ My GATE CSE-2023 Experience [Medium](https://medium.com/@souvik33and37/gate-in-cse-it-roadmap-1e145c1de1cf), [Gate Overfllow](https://gateoverflow.in/blog/15215/my-gate-cse-2023-journey-for-future-aspirants)
 --->
+<p align="center">
+  <a href="https://www.linkedin.com/in/dharmendra-iitm/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dharmendra--IITM-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+	
+  <a href="https://dharmendra-07.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/Dharmendra-07">
+    <img src="https://img.shields.io/badge/GitHub-Dharmendra--07-181717?style=for-the-badge&logo=github" />
+  </a>
+  
+  <a href="https://www.instagram.com/_dharam6/">
+    <img src="https://img.shields.io/badge/Instagram-_dharam6-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dharmendra-iitm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/dharmendra-iitm/" height="30" width="40" /></a>
