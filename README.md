@@ -69,3 +69,156 @@
 ---
 
 
+
+
+
+
+
+
+<div align="center">
+
+# Hi 👋, I'm Dharmendra Kumar
+
+### Data Science Undergraduate at IIT Madras  
+### AI • Machine Learning • Deep Learning • Software Development
+
+<p>
+  Passionate about building intelligent systems, scalable applications, and solving real-world problems using Data Science and AI.
+</p>
+
+<p>
+  <a href="https://komarev.com/ghpvc/?username=Dharmendra-07">
+    <img src="https://komarev.com/ghpvc/?username=Dharmendra-07&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Undergraduate Student in **Data Science & Applications** at **IIT Madras**
+- 🤖 Interested in **Machine Learning, Deep Learning, AI, and Software Development**
+- 📊 Passionate about **Data Analytics, Finance AI, and Scalable Systems**
+- 💻 Strong interest in building **full-stack and AI-powered applications**
+- 🌱 Currently exploring **Cloud Computing, LLMs, and Advanced ML Systems**
+- 🎯 Goal: Become a world-class **Data Scientist & AI Engineer**
+
+---
+
+## 🌐 Portfolio & Resume
+
+- 🌍 Portfolio:  
+  **[Visit Portfolio](https://dharmendra-07.github.io/Portfolio/)**
+
+- 📄 Resume:  
+  **[View Resume](https://drive.google.com/file/d/1GoD7giQ88i_w1tg5fpdbi7tiAZkHdpa7/view?usp=sharing)**
+
+- 📫 Email:  
+  **23f2000072@ds.study.iitm.ac.in**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/dharmendra-iitm/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="https://github.com/Dharmendra-07" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
+<a href="https://leetcode.com/u/Dharmendra-07/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode" height="45" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/dharmendra07/" target="_blank">
+<img src="https://cdn.simpleicons.org/geeksforgeeks" height="45" />
+</a>
+
+<a href="https://www.instagram.com/_dharam6/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
+</p>
+
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### AI / ML Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,opencv,sklearn" />
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dharmendra-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmendra-07&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmendra-07&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-07&theme=tokyo-night&hide_border=true&radius=10" width="100%"/>
+</p>
+
+---
+
+# 🏆 Achievements & Focus Areas
+
+- 🚀 AI & Machine Learning Projects
+- 📊 Data Analytics & Visualization
+- 🌐 Full Stack Web Development
+- ⚡ Scalable Backend Systems
+- 📚 Continuous Learning in Data Science & AI
+
+---
+
+<div align="center">
+
+### ⭐ “Transforming Data into Intelligent Solutions”
+
+</div>
+
