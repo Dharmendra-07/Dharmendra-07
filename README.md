@@ -105,7 +105,7 @@
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmendra-07&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
   
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dharmendra-07&theme=dark" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmendra-07&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </div>
 
 
