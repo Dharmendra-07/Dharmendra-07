@@ -102,7 +102,6 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dharmendra-07&theme=dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dharmendra-07&theme=dark" />
 </div>
-## 📊 My GitHub Analytics
 
 <div align="center">
 
