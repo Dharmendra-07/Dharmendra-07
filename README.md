@@ -99,7 +99,9 @@
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharmendra-07&theme=tokyonight" /> 
 
-# 🏆 GitHub Summary
+</div>
+
+<--# 🏆 GitHub Summary -->
 
 <div align="center">
 
