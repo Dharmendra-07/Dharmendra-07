@@ -199,4 +199,137 @@
 </div>
 
 
+900
+
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Dharmendra%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science%20%7C%20Software%20Development&descAlignY=58&descSize=18" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Dharmendra+Kumar;Data+Science+Undergraduate+at+IIT+Madras;AI+%7C+Machine+Learning+%7C+Deep+Learning;Building+Intelligent+and+Scalable+Systems" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Dharmendra-07&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/Dharmendra-07?style=for-the-badge&color=00c2ff" />
+
+<img src="https://img.shields.io/github/stars/Dharmendra-07?style=for-the-badge&color=yellow" />
+
+</div>
+
+---
+
+# 🌐 Portfolio & Resume
+
+<div align="center">
+
+<a href="https://dharmendra-07.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌍%20Portfolio-Visit%20Now-00C2FF?style=for-the-badge"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1GoD7giQ88i_w1tg5fpdbi7tiAZkHdpa7/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-success?style=for-the-badge"/>
+</a>
+
+<a href="mailto:23f2000072@ds.study.iitm.ac.in">
+  <img src="https://img.shields.io/badge/📫%20Email-Contact%20Me-red?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+🎓 Undergraduate Student in **Data Science & Applications** at **IIT Madras**
+
+💡 Passionate about:
+- Artificial Intelligence
+- Machine Learning & Deep Learning
+- Data Science & Analytics
+- Full Stack Development
+- Scalable Backend Systems
+
+🌱 Currently Exploring:
+- Large Language Models (LLMs)
+- Cloud Computing
+- AI-powered Applications
+- Advanced Machine Learning Systems
+
+🎯 Goal:
+> To become a world-class Data Scientist & AI Engineer
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/dharmendra-iitm/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://github.com/Dharmendra-07" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://leetcode.com/u/Dharmendra-07/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode" height="50"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/dharmendra07/" target="_blank">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks" height="50"/>
+</a>
+
+<a href="https://www.instagram.com/_dharam6/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Languages and Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,react,nodejs,express,mongodb,postgresql,html,css,tailwind,bootstrap,tensorflow,pytorch,git,github,vscode,linux" />
+
+<br/><br/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,opencv,sklearn" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharmendra-07&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
+</p>
+
+---
+
+# 🏆 Achievements & Interests
+
+✨ AI & Machine Learning Projects  
+✨ Data Analytics & Visualization  
+✨ Full Stack Web Applications  
+✨ Scalable Backend Development  
+✨ Open Source & Continuous Learning  
+
+---
+
+<div align="center">
+
+## ⚡ “Transforming Data into Intelligent Solutions”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
 
