@@ -97,13 +97,13 @@
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmendra-07&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharmendra-07&theme=tokyonight" /> 
 
 </div>
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharmendra-07&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dharmendra-07&theme=tokyonight" />
 
